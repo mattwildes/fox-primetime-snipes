@@ -5,10 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fox_Primetime_Snipes"
         mc:Ignorable="d"
-        Title="Rendering ..." Height="200" Width="400" ResizeMode="NoResize" Cursor="None">
-    <Grid>
-        <ProgressBar x:Name="renderBar" HorizontalAlignment="Left" Height="20" Margin="100,90,0,0" VerticalAlignment="Top" Width="200" Value="10" ValueChanged="RenderBar_ValueChanged"/>
-        <Button x:Name="OpenFile" Content="Close" HorizontalAlignment="Left" Margin="155,130,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="OpenFile_Click"/>
+        Title="Rendering ..." Height="200" Width="488" ResizeMode="NoResize" Cursor="Wait">
+    <Grid Cursor="Wait">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="238*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <ProgressBar x:Name="renderBar" HorizontalAlignment="Left" Height="20" Margin="80,95,0,0" VerticalAlignment="Top" Width="320" Value="10" ValueChanged="RenderBar_ValueChanged"/>
+        <Button x:Name="OpenFile" Content="Close" HorizontalAlignment="Left" Margin="155,130,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="OpenFile_Click" Visibility="Hidden"/>
+        <Label x:Name="StatusLabel" Content="Label" HorizontalAlignment="Left" Margin="10,41.66,0,0" VerticalAlignment="Top" Width="462" HorizontalContentAlignment="Center" Height="30" UseLayoutRounding="False" FontSize="11"/>
 
     </Grid>
 </Window>

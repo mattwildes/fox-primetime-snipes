@@ -21,12 +21,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_01BAC5E325284EC4A998B019977A2F50"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_0205CBFFB85C4D07B10BAEF932DE242B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -45,13 +39,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_0DCA6C312C8F4E9780FFAB88C7497181"
+        "MsmKey" = "8:_0C0568B2FB684D17B9D8C653137DE690"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0E9D94B8387A49099D35AEBFD54A3341"
+        "MsmKey" = "8:_0DCA6C312C8F4E9780FFAB88C7497181"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -81,6 +75,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_209C45477B7D43E0A69EFA6FB23AC583"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_29D7D452A0BE4113ADC56915C67E3D77"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_2A18F50A499048A89F9E8D38E764D290"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -105,6 +111,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_34414DCC3A37469990C4ABB64FD1CB4D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_346F266833A64990AE7D3B06FA14D5A0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -112,12 +124,6 @@
         "Entry"
         {
         "MsmKey" = "8:_34C0C890CFDA41DD87C91754FCD61796"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_36FF071444674E2685949DE1FB0FB206"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -159,6 +165,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4E6410335C5443518C3B81FCF3B217FD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_51E30A7B86A94A7AA08FB2A072E2C496"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -177,13 +189,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5B13C5B9C0954A74B9ACEC923FE9FD04"
+        "MsmKey" = "8:_5BBA114A13A2491FBDC8C8FE52977A82"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5BBA114A13A2491FBDC8C8FE52977A82"
+        "MsmKey" = "8:_5F6671071F294778B5C42749132E572C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -219,7 +231,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6DB1F9100DE24CC6B2859CC1D01BBEB0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_701C09ABBD604A13B4C4E3011D4250DA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_74419FA5ED5A418A8989E2F3E6F0A4D9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -267,13 +291,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_9202BE34A3E745CCA0E83120503960F9"
+        "MsmKey" = "8:_9057A84FD9EA4602809655F5761074E3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9A6172CACE8F484192B001539DA2163D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9C4106188C344DFE9EAFB25B34C2911F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -291,7 +321,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A149C4EF70D9485AB6735E888C3634F1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A2E5AEB263794679B5FB4D7609A432F3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A96C1BE339454D00AF29C7F066CA25D2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AB3C44DC31B845B4B26B18190A90D4FF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -303,8 +351,14 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_AD5ADE05CA7F4320827D4FE0164BBDFD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_AE3BCA24DD6A6C509E894FFA90342D9C"
-        "OwnerKey" = "8:_5B13C5B9C0954A74B9ACEC923FE9FD04"
+        "OwnerKey" = "8:_B8065BB8F3654FEBA1E15E126FA982AB"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -315,13 +369,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B8366E877616474489113B7CF461EE28"
+        "MsmKey" = "8:_B15731EF7F9F4F56B2B1159405494B28"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_BB1BF47685224AEFB4F801A8FB465567"
+        "MsmKey" = "8:_B3CBA5511DE5434786F7D2E78ABB0B32"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B8065BB8F3654FEBA1E15E126FA982AB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B8366E877616474489113B7CF461EE28"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -351,7 +417,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C72F33DE312B4CE193A75AF41C75058D"
+        "MsmKey" = "8:_C5E86B160DDF4EFC961EBAC98923420B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -393,7 +459,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D7D57DBAC31F4AE8BF345A001559E780"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D7E613E2A36F414395DC77B18CE3DD63"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DAC8F7BEF9034249BEAEBC59FDA00D05"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -429,19 +507,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EA38B4BF5A48445BA7B65A7513329D40"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_EA995D7073D74132BD811A9F861CDC20"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_EF912436BDCF4D7FA104B46DE5D9AC50"
+        "MsmKey" = "8:_F1671C9CB69B4F8ABBB388792DA7CCD6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -477,6 +543,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_FCF52F641E95460C86F09BB73F337525"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_FF2D24E06B0A47F59E6172DA73DB0742"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -484,7 +556,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5B13C5B9C0954A74B9ACEC923FE9FD04"
+        "OwnerKey" = "8:_B8065BB8F3654FEBA1E15E126FA982AB"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -608,26 +680,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_01BAC5E325284EC4A998B019977A2F50"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Fox_Logo_Animation.mov"
-            "TargetName" = "8:Fox_Logo_Animation.mov"
-            "Tag" = "8:"
-            "Folder" = "8:_E2F73FA7F902473D9A3A25BE8FDB67DA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0205CBFFB85C4D07B10BAEF932DE242B"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Bold.ttf"
@@ -688,6 +740,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C0568B2FB684D17B9D8C653137DE690"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Scripts\\mamoworldJSON.jsxbin"
+            "TargetName" = "8:mamoworldJSON.jsxbin"
+            "Tag" = "8:"
+            "Folder" = "8:_0932877AB43949389E1B9E4AD0DA62AC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0DCA6C312C8F4E9780FFAB88C7497181"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Extra Light Italic.ttf"
@@ -704,26 +776,6 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0E9D94B8387A49099D35AEBFD54A3341"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Scripts\\mamoworldJSON.jsxbin"
-            "TargetName" = "8:mamoworldJSON.jsxbin"
-            "Tag" = "8:"
-            "Folder" = "8:_D8D7DEB8410941FDA85EA914167B75BB"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -808,6 +860,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_209C45477B7D43E0A69EFA6FB23AC583"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Background_01.mov"
+            "TargetName" = "8:Background_01.mov"
+            "Tag" = "8:"
+            "Folder" = "8:_B5770BAF07964BA587F79BB225319A9C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_29D7D452A0BE4113ADC56915C67E3D77"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Header.txt"
+            "TargetName" = "8:Header.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_AF5A8A095889451E9286FEFF8422B8B2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2A18F50A499048A89F9E8D38E764D290"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham XNarrow Extra Light .ttf"
@@ -888,6 +980,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_34414DCC3A37469990C4ABB64FD1CB4D"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Trace Database.txt"
+            "TargetName" = "8:Trace Database.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_346F266833A64990AE7D3B06FA14D5A0"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Light.ttf"
@@ -924,26 +1036,6 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_36FF071444674E2685949DE1FB0FB206"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Header.txt"
-            "TargetName" = "8:Header.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_3EE309AF42B5488693C0F2FE5B5F32F4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1068,6 +1160,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4E6410335C5443518C3B81FCF3B217FD"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-indep-output.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-indep-output.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51E30A7B86A94A7AA08FB2A072E2C496"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Narrow Thin.ttf"
@@ -1144,6 +1256,26 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F6671071F294778B5C42749132E572C"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\KTTV_FOX11_STYLIZED_BOXKITE_LOGO_NEWS[2][3].jpg"
+            "TargetName" = "8:KTTV_FOX11_STYLIZED_BOXKITE_LOGO_NEWS[2][3].jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_B5770BAF07964BA587F79BB225319A9C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1248,6 +1380,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6DB1F9100DE24CC6B2859CC1D01BBEB0"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 MC Prefs"
+            "TargetName" = "8:Adobe After Effects 16.1 MC Prefs"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_701C09ABBD604A13B4C4E3011D4250DA"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Narrow Thin Italic.ttf"
@@ -1264,6 +1416,26 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_74419FA5ED5A418A8989E2F3E6F0A4D9"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-indep-render.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-indep-render.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1408,12 +1580,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9202BE34A3E745CCA0E83120503960F9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9057A84FD9EA4602809655F5761074E3"
             {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\BodyCopy.txt"
-            "TargetName" = "8:BodyCopy.txt"
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\CurrentTemplate.aep"
+            "TargetName" = "8:CurrentTemplate.aep"
             "Tag" = "8:"
-            "Folder" = "8:_3EE309AF42B5488693C0F2FE5B5F32F4"
+            "Folder" = "8:_AF5A8A095889451E9286FEFF8422B8B2"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1444,6 +1616,26 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9C4106188C344DFE9EAFB25B34C2911F"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-indep-composition.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-indep-composition.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1488,6 +1680,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A149C4EF70D9485AB6735E888C3634F1"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Fox_Logo_Animation.mov"
+            "TargetName" = "8:Fox_Logo_Animation.mov"
+            "Tag" = "8:"
+            "Folder" = "8:_B5770BAF07964BA587F79BB225319A9C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2E5AEB263794679B5FB4D7609A432F3"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Light Italic.ttf"
@@ -1508,6 +1720,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A96C1BE339454D00AF29C7F066CA25D2"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-paint.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-paint.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AB3C44DC31B845B4B26B18190A90D4FF"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-indep-general.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-indep-general.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ABDCFE712EA5400D9A36D40B99F27F9D"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Black Italic.ttf"
@@ -1524,6 +1776,26 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AD5ADE05CA7F4320827D4FE0164BBDFD"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\BodyCopy.txt"
+            "TargetName" = "8:BodyCopy.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_AF5A8A095889451E9286FEFF8422B8B2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1579,6 +1851,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B15731EF7F9F4F56B2B1159405494B28"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Interpretation Rules.txt"
+            "TargetName" = "8:Interpretation Rules.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B3CBA5511DE5434786F7D2E78ABB0B32"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\FOX11 ON-AIR.ai"
+            "TargetName" = "8:FOX11 ON-AIR.ai"
+            "Tag" = "8:"
+            "Folder" = "8:_B5770BAF07964BA587F79BB225319A9C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8366E877616474489113B7CF461EE28"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham XNarrow Ultra.ttf"
@@ -1595,26 +1907,6 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BB1BF47685224AEFB4F801A8FB465567"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Logo_Safe_Area.png"
-            "TargetName" = "8:Logo_Safe_Area.png"
-            "Tag" = "8:"
-            "Folder" = "8:_E2F73FA7F902473D9A3A25BE8FDB67DA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1699,12 +1991,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C72F33DE312B4CE193A75AF41C75058D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C5E86B160DDF4EFC961EBAC98923420B"
             {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\CurrentTemplate.aep"
-            "TargetName" = "8:CurrentTemplate.aep"
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Debug Database.txt"
+            "TargetName" = "8:Debug Database.txt"
             "Tag" = "8:"
-            "Folder" = "8:_3EE309AF42B5488693C0F2FE5B5F32F4"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1839,6 +2131,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7D57DBAC31F4AE8BF345A001559E780"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Logo_Safe_Area.png"
+            "TargetName" = "8:Logo_Safe_Area.png"
+            "Tag" = "8:"
+            "Folder" = "8:_B5770BAF07964BA587F79BB225319A9C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7E613E2A36F414395DC77B18CE3DD63"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham Book.ttf"
@@ -1855,6 +2167,26 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DAC8F7BEF9034249BEAEBC59FDA00D05"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
@@ -1959,52 +2291,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA38B4BF5A48445BA7B65A7513329D40"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F1671C9CB69B4F8ABBB388792DA7CCD6"
             {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\FOX11 ON-AIR.ai"
-            "TargetName" = "8:FOX11 ON-AIR.ai"
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Adobe After Effects 16.1 Prefs-text.txt"
+            "TargetName" = "8:Adobe After Effects 16.1 Prefs-text.txt"
             "Tag" = "8:"
-            "Folder" = "8:_E2F73FA7F902473D9A3A25BE8FDB67DA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA995D7073D74132BD811A9F861CDC20"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\KTTV_FOX11_STYLIZED_BOXKITE_LOGO_NEWS[2][3].jpg"
-            "TargetName" = "8:KTTV_FOX11_STYLIZED_BOXKITE_LOGO_NEWS[2][3].jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_E2F73FA7F902473D9A3A25BE8FDB67DA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EF912436BDCF4D7FA104B46DE5D9AC50"
-            {
-            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Assets\\Background_01.mov"
-            "TargetName" = "8:Background_01.mov"
-            "Tag" = "8:"
-            "Folder" = "8:_E2F73FA7F902473D9A3A25BE8FDB67DA"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2119,6 +2411,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FCF52F641E95460C86F09BB73F337525"
+            {
+            "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Adobe Preferences\\Workspaces.xml"
+            "TargetName" = "8:Workspaces.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_1548C5FC9D2B411E8FBAB109161B6C70"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FF2D24E06B0A47F59E6172DA73DB0742"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\Payload\\Fonts\\Gotham XNarrow Medium.ttf"
@@ -2166,50 +2478,6 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_39505FBD2E384A5DAA235A2064ECDBA3"
-                    {
-                    "Name" = "8:Output"
-                    "AlwaysCreate" = "11:TRUE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_F702704DB4E347A28BBD29C80D00F981"
-                        "Folders"
-                        {
-                        }
-                    }
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3EE309AF42B5488693C0F2FE5B5F32F4"
-                    {
-                    "Name" = "8:Template"
-                    "AlwaysCreate" = "11:FALSE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_F4E7A4293EE64DF8843EB1AAD6125355"
-                        "Folders"
-                        {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_D8D7DEB8410941FDA85EA914167B75BB"
-                            {
-                            "Name" = "8:Scripts"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_D7CBCC3D416F45DAAC2D3477B4DA6C29"
-                                "Folders"
-                                {
-                                }
-                            }
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_E2F73FA7F902473D9A3A25BE8FDB67DA"
-                            {
-                            "Name" = "8:Assets"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_E54F78891D5A44BC834D5AAC72AAE361"
-                                "Folders"
-                                {
-                                }
-                            }
-                        }
-                    }
                 }
             }
             "{1525181F-901A-416C-8A58-119130FE478E}:_877AB04F59B54316ACE5D4C2261B65C5"
@@ -2221,6 +2489,17 @@
             "Property" = "8:AppDataFolder"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_1BCCF329B45D4A59A171822BB43F5D22"
+                    {
+                    "Name" = "8:FTS Graphics Hub"
+                    "AlwaysCreate" = "11:TRUE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_E1A03D62EF154D6BA00077C83AA83D39"
+                        "Folders"
+                        {
+                        }
+                    }
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_2D726AB4F75E43EDB364C9A5E51AE54F"
                     {
                     "Name" = "8:Adobe"
@@ -2242,7 +2521,7 @@
                                     "{9EF0B969-E518-4E46-987F-47570745A589}:_1548C5FC9D2B411E8FBAB109161B6C70"
                                     {
                                     "Name" = "8:16.1"
-                                    "AlwaysCreate" = "11:FALSE"
+                                    "AlwaysCreate" = "11:TRUE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
                                     "Property" = "8:_462A3C611A2D4A82BC0E445A4545E09E"
@@ -2259,12 +2538,46 @@
             "{1525181F-901A-416C-8A58-119130FE478E}:_9199528827B04A64B4F87E3ED0D0A21B"
             {
             "Name" = "8:#1916"
-            "AlwaysCreate" = "11:FALSE"
+            "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Property" = "8:DesktopFolder"
                 "Folders"
                 {
+                }
+            }
+            "{994432C3-9487-495D-8656-3E829A8DBDDE}:_AF5A8A095889451E9286FEFF8422B8B2"
+            {
+            "DefaultLocation" = "8:C:\\Users\\Public\\Documents\\FTS Graphics Hub\\Fox Primetime Snipes\\Template"
+            "Name" = "8:Template"
+            "AlwaysCreate" = "11:TRUE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:NEWPROPERTY2"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_0932877AB43949389E1B9E4AD0DA62AC"
+                    {
+                    "Name" = "8:Scripts"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_ED85BDD2EB554D5A868D064D6B39A7FC"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B5770BAF07964BA587F79BB225319A9C"
+                    {
+                    "Name" = "8:Assets"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_CF0D2E5C70364189BE52065DE980D99F"
+                        "Folders"
+                        {
+                        }
+                    }
                 }
             }
             "{994432C3-9487-495D-8656-3E829A8DBDDE}:_C0399E844ED34D80A33A15B804CD464F"
@@ -2290,27 +2603,9 @@
                 {
                 }
             }
-            "{1525181F-901A-416C-8A58-119130FE478E}:_F77A26D55B6A4AC0AB8E3A41CBC185C4"
-            {
-            "Name" = "8:#1919"
-            "AlwaysCreate" = "11:FALSE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Property" = "8:ProgramMenuFolder"
-                "Folders"
-                {
-                }
-            }
         }
         "LaunchCondition"
         {
-            "{836E08B8-0285-4809-BA42-01DB6754A45D}:_14E114CDB1044CB3BD1BF01A310FD6CE"
-            {
-            "Name" = "8:REG:VLC Media Player"
-            "Condition" = "8:PUBLISHER=\"VideoLAN\""
-            "Message" = "8:This tool requires VLC Media Player v.3.  Would you like to download this now?"
-            "InstallUrl" = "8:https://get.videolan.org/vlc/3.0.8/win32/vlc-3.0.8-win32.exe"
-            }
             "{836E08B8-0285-4809-BA42-01DB6754A45D}:_BDBBBE7FA7DE4B0EB4D81F7A3F63865A"
             {
             "Name" = "8:Adobe After Effects CC 2019"
@@ -2377,15 +2672,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Fox Primetime Snipes"
-        "ProductCode" = "8:{58788258-FB3C-4454-BB74-6FE567B56366}"
-        "PackageCode" = "8:{3F30EC6C-D55D-4752-BD81-7E6A5AE645D1}"
+        "ProductCode" = "8:{1A294AA1-D82D-426C-9C83-8FB744E9C161}"
+        "PackageCode" = "8:{741AD8AD-CCA2-42A8-AF37-50EF151D9FFF}"
         "UpgradeCode" = "8:{074D4A08-81F1-4957-AFA9-CB970BCB39BC}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
-        "RemovePreviousVersions" = "11:TRUE"
-        "DetectNewerInstalledVersion" = "11:TRUE"
+        "RemovePreviousVersions" = "11:FALSE"
+        "DetectNewerInstalledVersion" = "11:FALSE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.2"
         "Manufacturer" = "8:FTS Graphics Hub"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -2498,7 +2793,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_27E8C04B6D184675AD843F4BF9EC0EA8"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E6E67604C91B4BE0B5F064AFB6E40FB8"
             {
             "Name" = "8:Fox Primetime Snipes"
             "Arguments" = "8:"
@@ -2506,27 +2801,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_5B13C5B9C0954A74B9ACEC923FE9FD04"
-            "Folder" = "8:_9199528827B04A64B4F87E3ED0D0A21B"
+            "Target" = "8:_B8065BB8F3654FEBA1E15E126FA982AB"
+            "Folder" = "8:_19E05687F44A446EA67837EEB89BB09B"
             "WorkingFolder" = "8:_49457470C91349EB93816FB13742EF58"
             "Icon" = "8:"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5ACF36BEAED0470A83AF678838CE8F2E"
-            {
-            "Name" = "8:Output"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_39505FBD2E384A5DAA235A2064ECDBA3"
-            "Folder" = "8:_9199528827B04A64B4F87E3ED0D0A21B"
-            "WorkingFolder" = "8:_3EE309AF42B5488693C0F2FE5B5F32F4"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D44AD3BA93FA41B3846A8B1A937226A2"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_EC087AA4887B457D9442206882DB0CCE"
             {
             "Name" = "8:Fox Primetime Snipes"
             "Arguments" = "8:"
@@ -2534,8 +2815,8 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_5B13C5B9C0954A74B9ACEC923FE9FD04"
-            "Folder" = "8:_19E05687F44A446EA67837EEB89BB09B"
+            "Target" = "8:_B8065BB8F3654FEBA1E15E126FA982AB"
+            "Folder" = "8:_9199528827B04A64B4F87E3ED0D0A21B"
             "WorkingFolder" = "8:_49457470C91349EB93816FB13742EF58"
             "Icon" = "8:"
             "Feature" = "8:"
@@ -2939,7 +3220,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5B13C5B9C0954A74B9ACEC923FE9FD04"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_B8065BB8F3654FEBA1E15E126FA982AB"
             {
             "SourcePath" = "8:..\\Fox Primetime Snipes\\obj\\Release\\Fox Primetime Snipes.exe"
             "TargetName" = "8:"

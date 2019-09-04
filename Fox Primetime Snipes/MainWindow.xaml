@@ -1,0 +1,25 @@
+﻿<Window x:Class="Fox_Primetime_Snipes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fox_Primetime_Snipes"
+        mc:Ignorable="d"
+        Title="FTS Graphics Hub Snipe Generator" Height="299" Width="677">
+    <Grid>
+        <TextBox x:Name="TxtHeader" HorizontalAlignment="Left" Height="23" Margin="63,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" AutomationProperties.IsColumnHeader="True" Cursor="SizeAll" TextChanged="TxtHeader_TextChanged" SpellCheck.IsEnabled="True" KeyDown="TxtHeader_OnKeyDownHandler"/>
+        <Label Content="Header:" HorizontalAlignment="Left" Margin="59,57,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="TxtBody" HorizontalAlignment="Left" Height="23" Margin="63,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" AutomationProperties.IsColumnHeader="True" Cursor="SizeAll" TextChanged="TextBox_TextChanged" KeyDown="TxtBody_OnKeyDownHandler"/>
+        <Label Content="Body:" HorizontalAlignment="Left" Margin="59,117,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button Content="Render" HorizontalAlignment="Left" Margin="250,194,0,0" VerticalAlignment="Top" Width="75" Click="buttonRender_Click"/>
+        <Image HorizontalAlignment="Left" Height="86" Margin="411,79,0,0" VerticalAlignment="Top" Width="214" Source="Payload/logo.png"/>
+        <Menu Name="MainMenu"  HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="600" Background="White" Margin="5,5,0,0">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Exit" IsCheckable="True" Click="MenuItem_Click">
+                    <ComboBox Height="100" Width="120"/>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>
